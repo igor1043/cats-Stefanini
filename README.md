@@ -13,6 +13,6 @@ aplicação que consume e mostra imagens de gatos da api https://api.imgur.com
 
 # Lista de Apps
 
- | [**Mapa - Mapbox**](https://github.com/igor1043/KotlinMapboxTeste)      | 
+ | [**CATS - Tela Inicial**](https://github.com/igor1043/KotlinMapboxTeste)      | 
 |------------|
-|  <img src="https://github.com/igor1043/Projetos-Android-Java-Kotlin/blob/main/screenshots/Teste%20JavaKotlin.jpg" width="250"> |
+|  <img src="https://github.com/igor1043/cats-stefanini/blob/main/screensshots/Screenshot_1645552772.png" width="300"> |
